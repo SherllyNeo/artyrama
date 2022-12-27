@@ -4,9 +4,9 @@ title: "My art is so cool"
 subtitle: "am I just the best artist ever?"
 active: "journal"
 image:
-  feature: "pc008.jpg"
+  feature: "pc002.jpg"
 date: "2016-02-01"
-header-img: "img/postcover/pc008.jpg"
+header-img: "img/postcover/pc002.jpg"
 comments: "true"
 ---
 
