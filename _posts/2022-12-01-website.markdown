@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "My first post"
+subtitle:   "Exploring showcasing work on the internet"
+active: journal
+image:
+  feature: "pc001.jpg"
+date:       2022-12-01
+header-img: "img/postcover/pc001.jpg"
+tags: [tag01, tag02]
+categories: [cat01, cat02]
+comments: false
+---
+Today I thought I'd use websites help showcase my skill to employers and got a really handsome developer to do it, and wow, did he do a terrible job. Lesson learned. Never use the internet again.
